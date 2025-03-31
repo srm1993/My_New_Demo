@@ -1,7 +1,7 @@
 function About(){
     return(
         <>
-            <h2>This is About component</h2>
+            <h2>Hai Rahul. This is About component</h2>
         </>
     )
 }
